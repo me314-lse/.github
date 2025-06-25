@@ -1,4 +1,4 @@
-#ME314: Introduction to Data Science and Machine Learning
+# ME314: Introduction to Data Science and Machine Learning
 
 This course is an intensive and hands-on introduction to data science and machine learning, designed for students and professionals working with data in the social sciences, public policy, business, and beyond. It equips students with the practical tools and conceptual foundations needed to analyse complex datasets, build credible empirical arguments, and extract insight from both structured and unstructured data. A core theme of the course is using data science to bring clarity to ambiguity: transforming open-ended questions and messy data into structured, reproducible, and impactful analyses. Students will develop highly sought-after technical and analytical skills that enable them to work independently on real-world data problems—skills that are applicable across academic research, policy analysis, and data-driven roles in industry, and which also provide a strong foundation for more specialised training. 
 
