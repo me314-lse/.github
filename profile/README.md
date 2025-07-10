@@ -12,7 +12,7 @@ Each topic in the course will be reinforced through hands-on programming in both
 
 ## First Week Office Hours
 
-The GTAs will hold office hours on Monday, Tuesday, and Wednesday of the first week of class in room CBG XXXX:
+To assist with any computational troubles early in the class, the GTAs will hold office hours on Monday, Tuesday, and Wednesday of the first week of class in room CBG XXXX:
 
 - Monday 14 July: XXX
 - Tuesday 15 July: 9-10am, 1-2pm, 5-6pm
