@@ -10,5 +10,13 @@ The course is divided into three parts: Fundamentals, Foundations, and Frontiers
 
 Each topic in the course will be reinforced through hands-on programming in both R and Python using real-world datasets. We will also integrate generative AI tools alongside self-led coding, reflecting how these technologies are increasingly used in professional and research settings. Rather than relying on these tools to do the work, students will learn how to use them effectively and critically—evaluating whether outputs are accurate, appropriate, and aligned with their analytical goals. Students will learn the skills required to be discerning users of generative AI, capable of integrating these increasingly important tools into rigorous, real-world data workflows. 
 
+## First Week Office Hours
+
+The GTAs will hold office hours on Monday, Tuesday, and Wednesday of the first week of class in room CBG XXXX:
+
+- Monday 14 July: XXX
+- Tuesday 15 July: 9-10am, 1-2pm, 5-6pm
+- Wednesday 16 July:  9-10am, 1-2pm, 5-6pm
+  
 ## Teaching Team
 Dr Ryan Hübert, Dr Daniel de Kadt, Christy Coulson, Anton Konneke, and Charlotte Kuberka
