@@ -12,11 +12,11 @@ Each topic in the course will be reinforced through hands-on programming in both
 
 ## First Week Office Hours
 
-To assist with any computational troubles early in the class, the GTAs will hold office hours on Monday, Tuesday, and Wednesday of the first week of class in room CBG XXXX:
+To assist with any computational troubles early in the class, the GTAs will hold office hours on Monday, Tuesday, and Wednesday of the first week of class in room CBG 3.19:
 
-- Monday 14 July: XXX
+- Monday 14 July: 4-5pm
 - Tuesday 15 July: 9-10am, 1-2pm, 5-6pm
-- Wednesday 16 July:  9-10am, 1-2pm, 5-6pm
+- Wednesday 16 July:  9-10am, 5-6pm
   
 ## Teaching Team
 Dr Ryan Hübert, Dr Daniel de Kadt, Christy Coulson, Anton Konneke, and Charlotte Kuberka
