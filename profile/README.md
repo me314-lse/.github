@@ -1,6 +1,6 @@
 # ME314: Introduction to Data Science and Machine Learning
 
-Welcome to ME314! This course will be taught primarily through this github organization. Every day the lecture slides will be uploaded to the `lectures` repo as .pdf files. In the afternoon, you will clone into a new `seminar#`repo, which will contain materials for the day's seminar activities.
+Welcome to ME314! This course will be taught primarily through this github organization. Every day the lecture slides will be uploaded to the `lectures` repo as .pdf files. In the afternoon, you will clone into a new `seminar#` repo, which will contain materials for the day's seminar activities.
 
 ## Course Description
 
