@@ -19,4 +19,4 @@ To assist with any computational troubles early in the class, the GTAs will hold
 - Wednesday 16 July:  9-10am, 1-2pm
   
 ## Teaching Team
-Dr Ryan Hübert, Dr Daniel de Kadt, Christy Coulson, Anton Könneke, and Charlotte Kuberka
+Dr Ryan Hübert, Dr Daniel de Kadt, Christy Coulson, Charlotte Kuberka
